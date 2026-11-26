@@ -1,4 +1,4 @@
-# portafolio
+# Portafolio
 
 > Conceptos. Explica con tus palabras qué es cada uno, para qué lo usaste y muestra un fragmento de tu propio código: HTML, CSS, JavaScript, MQTT y otros que estimes convenientes (por ejemplo React, GitHub Pages, API, Web Audio o MediaPipe).
 
@@ -12,13 +12,13 @@ El proyecto parte desde un boceto inicial en Figma, posteriormente materializada
 
 La identidad visual del portafolio se construye a partir de elementos botánicos, específicamente flores, formas orgánicas y gráficas pixeladas, generando contraste entre lo natural y lo computacional. Utilizando una paleta cromática compuesta principalmente por tonalidad rosadas, verde oliva y un fondo crema y neutro, donde todo resalta con más detalle. La acompañan las tipografía Poppins y Pixelify Sans, las cuales permiten establecer diferentes jerarquías y personalidad a lo largo del portafolio. Por último, las flores funcionan como un recurso gráfico, un complemento el cual proporciona continuidad visual a lo largo de la página
 
-### GitHub personal
+## GitHub personal
 
 Este es mi GitHub personal, el cual lo inicié a principios de semestre para el ramo, donde funciona como bitácora de apuntes de forma semanal y para respaldar los encargos de cada clase.
 
 [GitHub](https://github.com/isipm08/dis9087-dppi)
 
-### Landing
+## Landing
 
 En landing tenemos la gráfica principal que destaca todo el proyecto, la flor interactiva que presenta estos 3 proyectos bases que he realizado a lo largo de la asignatura y 3 proyectos personales que he realizado a lo largo de la carrera, a través de líneas que conectan todos estos, la cual se va transformando mediante el scroll del usuario hacia abajo. Además se incorpora una bienvenida, presentándome de manera acotada mi nombre y lo que estudio actualmente. Esta interacción propone una nueva alternativa para explorar el contenido
 
@@ -26,7 +26,7 @@ El componente incorporado en mi portafolio es ```Text Scramble, de Motion Primit
 
 > Licencia: la ficha en 21st.dev lo lista como MIT, que permite usarlo y adaptarlo.
 
-### Proyectos
+## Proyectos
 
 La organización de los proyectos se inspira en el concepto de carpetas digitales, reinterpretando elementos propios de las interfaces computacionales. Cada carpeta permite acceder a una sección individual, en la que se profundiza sobre el proyecto mediante descripciones, fotografías, videos y registros de sus procesos de desarrollo. Esta estructura permite reunir trabajos de distintas áreas del diseño, desde la experimentación material y la fabricación de objetos hasta la representación gráfica, la programación y las máquinas computacionales.
 
@@ -56,7 +56,7 @@ Los proyectos que se presentan en el portafolio son:
   ```6. Cámara```
 - Descripción proyecto: Proyecto desarrollado durante el primer semestre de 2024 en el ramo de Geometría Básica. Consiste en la construcción de una cámara Polaroid a escala, utilizando cartón y planos elaborados manualmente, explorando la representación tridimensional, las proporciones y las técnicas de construcción de modelos físicos.
 
-### About me
+## About me
 
 El apartado de about me tiene una breve descripción de mis habilidades personales en el ámbito de la carrera, además de características que me destacan como persona al momento de trabajar y desempeñarme en diferentes áreas de trabajo.
 
@@ -74,40 +74,57 @@ Illustrator
 
 ## Referentes
 
-La mayoría de mis referentes fueron sacados de Pinterest, los cuales rescaté el tema más visual de mi página web.
+La mayoría de mis referentes fueron sacados de Pinterest, los cuales rescaté el tema más visual de mi página web. 
+
+Lo que quería transmitir con estos referentes es el uso de elementos gráficos orgánicos y naturales como lo son las flores, con la mezcla de tipografías y elementos gráficos estilo pixel, para así generar un complemento entre ambos.
+
+![Referentes](imagenes/referentes-pinterest.png)
+
+**referente 2**
 
 https://www.awwwards.com/websites/interaction-design/
 
 - Web donde encontré páginas web interactivas bastante útiles e inspiracionales, me sirvió de igual forma para ir viendo la estética y ciertos tipos de diagramación.
 
+**referente 3**
+
+![Referentes](imagenes/referente3.jpg)
+
+Studio pixels
+
+Esta home de página web combina la estética computacional con elementos orgánicos, utilizando degradados, tipografía pixelada, grilla visible y leves transparencias.
+
+1. A simple vista se ve de que la página trata de un estudio creativo relacionado con el diseño digital, tecnología e inteligencia artificial. La estética combina referencias computacionales y recursos gráficos enfocados en lo orgánico.
+2. Visualmente se distinguen dos tipos de tipografías [pixelada, sans serif]. El uso de solo dos tipografías permite una jerarquía clara sin recurrir a muchas tipografías.
+3. La grilla está presente en la página web, una grilla modular visible, conformada por líneas horizontales, verticales y algunos puntos de intersección. Dividiéndose en dos grandes zonas como lo son lo textual y gráfica. Se repiten las esquinas redondeadas, transparencias, elementos gráficos pixelados, grilla. La flor que se presenta de gran tamaño sobrepasa los límites de la grilla, también hay tarjetas las cuales se superponen a la imagen, generando niveles de profundidad. Contraste entre el orden de lo geométrico de la interfaz y las formas naturales.
+4. Según lo que se ve a simple vista, la página cuenta con una barra de navegación con las categorías de Home, About y Works, incorpora botón que invita al usuario a explorar más a fondo el contenido del estudio.
+5. Solo se presenta la imagen estática en este referente, pero hay ciertos elementos gráficos dentro de este que pueden indicar alguna posibilidad de movimiento o interacción.
+6. En la interfaz al principio, el texto es el que tiene mayor predominancia y jerarquía visual, destacando por su tamaño, peso y contraste. Luego la mirada inmediatamente se dirige a la flor pixelada, como el primer elemento gráfico que encontramos. 
+
+Relación
+- Este referente tiene relación con mi portafolio principalmente por la combinación entre los elementos orgánicos y computacionales dentro de la misma identidad visual, generando así un contraste y un equilibrio entre ambos. Permitiendo generar una identidad vinculada a la naturaleza con el uso de un lenguaje digital. Además utiliza una grilla como base, en donde incorporo elementos gráficos que rompen esa estructura establecida. A partir del análisis de este referente, rescato el uso de las flores no solo como un elemento gráfico decorativo, si no como un recurso para poder construir una identidad visual.
+
+**referente 4**
 
 Web: https://andreas.vision/
+
 Autor: Andreas Kruszakin
 
 1. Combina diseño, programación, desarrollo productos digitales. Comunica resolución problemas, funcionalidad y resultados. Acá busca más comunicar su valor que aporta mediante su trabajo, más que el portafolio en sí.
 2. La jerarquía del proyecto se basa en los niveles de información los cuales entrega, diferenciar título, subtítulos, descripciones y los componentes de navegación.
-3. 
+3. Agrupa la información en bloques o secciones. Se repite la estructura en la cual presenta sus proyectos, relación títulos, descripciones, elementos navegación. Lo que no sigue la regla son las visualizaciones interactivas, uso de diagramas y registros del proceso.
+4. Se accede seleccionando un proyecto mediante su título, en donde se accede a una página enfocada solo al proyecto seleccionado.
+5. Los conceptos de movimiento e interacción en esta página son formas de comunicación de los proyectos y los procesos que los componen. El movimiento en este caso también cumple una función demostrativa e informativa.
+6. El texto aquí es el que se visualiza primero en la estructura del contenido
 
-A nivel estructural, el portafolio utiliza una organización modular de los contenidos, agrupándolos en secciones y bloques de información.
+Relación
+- En relación con mi portafolio, el referente que escogí me resulta relevante por la implementación de los elementos interactivos y la navegación que tiene hacia los proyectos individuales. De igual forma mi portafolio busca una identidad más experimental que profesional mediante los elementos botánicos, gráficas pixeladas, carpetas digitales y composiciones orgánicas. Finalmente rescato la coherencia entre páginas y la utilización de las interacciones con una intención en particular, procurando así que la experiencia visual no sea un impedimento en la navegación del sitio.
 
-Lo que se repite:
-- La estructura de presentación de los proyectos.
-- La relación entre títulos, descripciones e imágenes.
-- Las categorías de investigación, proceso, solución y resultados.
-- Los elementos de navegación.
-- La incorporación de datos cuantitativos.
-Lo que rompe la regla: la introducción de visualizaciones interactivas, diagramas, comparaciones, prototipos y registros de los proyectos. Estos elementos interrumpen la continuidad de los bloques de texto y generan distintos momentos de atención dentro del recorrido.
+## Código
 
-Esta organización permite establecer un equilibrio entre la repetición y la diferenciación de cada proyecto. Sin embargo, no pude comprobar el número exacto de columnas, márgenes y medianiles de la grilla visual.
+Acá se ve un poco la visualización del HTML, este es bastante simple, ya que es el encargado de integrar la tipografía y definir los proyectos que seleccioné para el portafolio.
 
-- De esta página rescato la primera interacción, el uso de una tipografía la cual contrasta entre los pixeles de fondo. En los primeros 5 segundos esta página me captura, debido a su interacción grande y llamativa por el uso del color. En casi todo la single page utiliza una jerarquía en base a dos columnas, donde la tipografía también se hace presente. 
-  
-¿Qué entiendes de la persona en los primeros cinco segundos?
-¿Cuántas tipografías, tamaños y pesos usa?
-¿Cuál es la grilla? ¿Qué se repite y qué rompe la regla?
-¿Cómo se pasa de la lista de proyectos a un proyecto?
-¿Qué se mueve, cuándo y por qué?
-¿Qué va primero en un proyecto: la imagen o el texto?
+![Código](imagenes/html.png)
 
 ## Uso IA
 
@@ -117,8 +134,4 @@ En este documento se muestra a más profundidad el uso de inteligencia artificia
 
 ## Reflexión
 
-
-
-Reflexión del semestre. Tus principales aprendizajes, los desafíos que enfrentaste y cómo los resolviste, los créditos (código, componentes, tipografías, imágenes y sonidos de terceros, con autor, fuente y licencia) y tu uso de IA a lo largo del semestre.
-
-Esta reflexión la escribes tú, con tus palabras y sin usar IA para redactarla.
+> Reflexión del semestre. Tus principales aprendizajes, los desafíos que enfrentaste y cómo los resolviste, los créditos (código, componentes, tipografías, imágenes y sonidos de terceros, con autor, fuente y licencia) y tu uso de IA a lo largo del semestre. Esta reflexión la escribes tú, con tus palabras y sin usar IA para redactarla.
